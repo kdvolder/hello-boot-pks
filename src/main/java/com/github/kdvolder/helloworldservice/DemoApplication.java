@@ -24,7 +24,7 @@ public class DemoApplication {
 
 	@GetMapping("/hello")
 	public String getMethodName(@RequestParam(defaultValue="World") String name) {
-		return "Hello "+name+"!";
+		return "Hohoho "+name+"!";
 	}
 	
 
