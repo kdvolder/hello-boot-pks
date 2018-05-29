@@ -3,5 +3,5 @@
 # Declare variables to be passed into your templates.
 
 app_name: hello-boot-pks
-docker_image: kdvolder/hello-boot-pks:latest
-replicas: 5
+docker_image: harbor.tan.springapps.io/chatter/hello-boot-pks:latest
+replicas: 1
