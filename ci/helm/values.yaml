@@ -4,4 +4,4 @@
 
 app_name: hello-boot-pks
 docker_image: kdvolder/hello-boot-pks:latest
-replicas: 1
+replicas: 5
